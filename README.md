@@ -47,6 +47,12 @@ Interactive Dashboard (Power BI) → Designed a consulting-style dashboard with 
 
 ---
 
+## **Dataset**
+
+Dataset: IBM HR Analytics Employee Attrition & Performance
+URL:https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+---
+
 ## **Insights & Impact**
 
 - Early career employees (<30) have the highest attrition.
